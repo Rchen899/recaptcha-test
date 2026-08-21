@@ -1,2 +1,0 @@
-# recaptcha-test
-recaptcha-test
